@@ -1,0 +1,13 @@
+C:\src\csharp\vbnet\testing\bin\Debug\testing.exe.config
+C:\src\csharp\vbnet\testing\bin\Debug\testing.exe
+C:\src\csharp\vbnet\testing\bin\Debug\testing.pdb
+C:\src\csharp\vbnet\testing\bin\Debug\testing.xml
+C:\src\csharp\vbnet\testing\obj\Debug\testing.vbproj.AssemblyReference.cache
+C:\src\csharp\vbnet\testing\obj\Debug\testing.Form1.resources
+C:\src\csharp\vbnet\testing\obj\Debug\testing.Resources.resources
+C:\src\csharp\vbnet\testing\obj\Debug\testing.vbproj.GenerateResource.cache
+C:\src\csharp\vbnet\testing\obj\Debug\testing.vbproj.CoreCompileInputs.cache
+C:\src\csharp\vbnet\testing\obj\Debug\testing.exe
+C:\src\csharp\vbnet\testing\obj\Debug\testing.xml
+C:\src\csharp\vbnet\testing\obj\Debug\testing.pdb
+C:\src\csharp\vbnet\testing\obj\Debug\testing.holiday_planer.resources

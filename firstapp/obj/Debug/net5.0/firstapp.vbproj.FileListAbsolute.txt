@@ -1,0 +1,16 @@
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.exe
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.deps.json
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.dll
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+C:\src\csharp\vbnet\firstapp\bin\Debug\net5.0\firstapp.pdb
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.vb
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.vbproj.CoreCompileInputs.cache
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.dll
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.pdb
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache
+C:\src\csharp\vbnet\firstapp\obj\Debug\net5.0\firstapp.vbproj.AssemblyReference.cache
