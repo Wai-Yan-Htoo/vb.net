@@ -1,18 +1,37 @@
 ﻿Public Class Form1
+    Dim ans As Double
+    Dim num1 As Double
+    Dim num2 As Double
+    Public Function addition(num1 As Int32, num2 As Int32) As Int32
 
-    Private Sub btn_multiply_Click(sender As Object, e As EventArgs) Handles btn_multiply.Click
+        ans = num1 + num2
+        lbl_answer.Text = ans
 
+    End Function
 
-        Dim num1 As Double
-        Dim num2 As Double
-        Dim ans As Double
-        num1 = 10
-        num2 = 20
-        num1 = txt_first_number.Text
-        num2 = txt_second_number.Text
+    Public Function multiplication(num1 As Int32, num2 As Int32) As Int32
 
         ans = num1 * num2
         lbl_answer.Text = ans
+    End Function
+    Public Function substraction(num1 As Int32, num2 As Int32) As Int32
+        ans = num1 - num2
+        lbl_answer.Text = ans
+    End Function
+    Public Function division(num1 As Double, num2 As Double) As Double
+        ans = num1 / num2
+        lbl_answer.Text = ans
+        MsgBox(ans)
+    End Function
+    Private Sub btn_multiply_Click(sender As Object, e As EventArgs) Handles btn_multiply.Click
+
+
+
+        num1 = txt_first_number.Text
+        num2 = txt_second_number.Text
+        multiplication(num1, num2)
+
+
     End Sub
 
     Private Sub btn_substract_Click(sender As Object, e As EventArgs) Handles btn_substract.Click
@@ -21,9 +40,8 @@
         Dim ans As Double
         num1 = txt_first_number.Text
         num2 = txt_second_number.Text
+        substraction(num1, num2)
 
-        ans = num1 - num2
-        lbl_answer.Text = ans
     End Sub
 
     Private Sub btn_division_Click(sender As Object, e As EventArgs) Handles btn_division.Click
@@ -32,20 +50,19 @@
         Dim ans As Double
         num1 = txt_first_number.Text
         num2 = txt_second_number.Text
+        division(num1, num2)
 
-        ans = num1 / num2
-        lbl_answer.Text = ans
     End Sub
 
     Private Sub btn_add_Click(sender As Object, e As EventArgs) Handles btn_add.Click
+
         Dim num1 As Double
         Dim num2 As Double
         Dim ans As Double
         num1 = txt_first_number.Text
         num2 = txt_second_number.Text
+        addition(num1, num2)
 
-        ans = num1 + num2
-        lbl_answer.Text = ans
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -55,7 +72,7 @@
 
         ' InputBox("Enter Product key")
         ' MsgBox("hello form1")
-        zodicsign.Show()
+        login.Show()
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -84,6 +101,9 @@
 
 
     End Sub
+
+
+
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         '                          0  1  2  3  4  5  6  7  8   9

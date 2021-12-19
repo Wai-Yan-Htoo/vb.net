@@ -27,3 +27,4 @@ C:\src\csharp\vbnet\decclass\obj\Debug\net5.0-windows\decclass.bijele.resources
 C:\src\csharp\vbnet\decclass\obj\Debug\net5.0-windows\decclass.datavalidation.resources
 C:\src\csharp\vbnet\decclass\obj\Debug\net5.0-windows\decclass.dowhihle.resources
 C:\src\csharp\vbnet\decclass\obj\Debug\net5.0-windows\decclass.zodicsign.resources
+C:\src\csharp\vbnet\decclass\obj\Debug\net5.0-windows\decclass.login.resources

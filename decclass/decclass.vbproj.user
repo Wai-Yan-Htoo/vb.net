@@ -25,6 +25,9 @@
     <Compile Update="Form5.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="radiobuttoncontrol.vb">
       <SubType>Form</SubType>
     </Compile>
